@@ -1,7 +1,7 @@
 import Header from "../components/Header";
 
 const ContactPage = () => {
-    return `
+  return `
     <div class="bg-contact container-fluid" id="contact" data-aos="zoom-in">
       <div class="clipath-contact">
             <section>
@@ -54,15 +54,15 @@ const ContactPage = () => {
                 <div class="item-bg-contact">
                     <div class="item-info-contact">
                    <p><i class='bx bxs-map'></i></p>
-                        <p>Kien Xuong - Thai Binh, VietNam</p>
+                        <p>Nam Tân, Nam Sách, Hải Dương</p>
                     </div>
                     <div class="item-info-contact">
                       <p>  <i class='bx bxs-phone' ></i></p>
-                        <p>0775.292.262</p>
+                        <p>0988888888</p>
                     </div>
                     <div class="item-info-contact">
                        <p> <i class='bx bxl-gmail' ></i></p>
-                        <p>Mcuongdev.it@gmail.com</p>
+                        <p>sondepdai03@gmail.com</p>
                     </div>
                 </div>
             </div>
@@ -71,6 +71,6 @@ const ContactPage = () => {
     </div>
   </div>
     
-    `
+    `;
 };
 export default ContactPage;

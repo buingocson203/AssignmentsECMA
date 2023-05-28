@@ -17,7 +17,7 @@ const banner = () => {
                 <div class="">
                   <h3>Hello, I'm  a</h3>
                 <h1 data-text="DEVELOPER . . .">DEVELOPER . . . </h1>
-                <p>Hi. I'm Manh Cuong, a passionate Developer based in the VietNam. Wellcome to my portfolio.</p>
+                <p>Hi. I'm Ngoc Son, a passionate Developer based in the VietNam. Wellcome to my portfolio.</p>
                 <p class="text-center">  <a href="/#about"><button class="btn-view-banner">View Portfolio</button></a></p>
                 </div>
             </div>

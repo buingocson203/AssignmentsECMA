@@ -1,7 +1,7 @@
 import Header from "../components/Header";
-import aboutImg from "../src/img/about.jpg"
+import aboutImg from "../src/img/about.jpg";
 const AboutPage = () => {
-    return `
+  return `
     <div id="about" class="aboutMe container-fluid" ">
             
 
@@ -28,18 +28,18 @@ const AboutPage = () => {
                 <p>Hello, I am a web developer. My job is to create websites and web applications to solve my clients' problems. I am passionate about programming and always try to learn new technologies to improve my development skills. If you are looking for an experienced and passionate web developer, I would be the right person to help you with your projects.</p>
                 <h5>Information</h5>
                 <p>School :FPT POLYTECHNIC</p>
-                <p>Website: mcuong.vercel.app</p>
+                <p>Website: ngocson.vercel.app</p>
                 
-                <p>Email : Mcuongdev.it@gmail.com</p>
-                <p>Phone: 0775.292.262</p>
-                <p>Add: Kien Xuong- Thai Binh</p>
-                <a target="_blank"  href="https://www.facebook.com/cuong.dev.8123"><button class="btn btn-secondary m-3">My Infor</button></a>
-                <a target="_blank" href="https://www.topcv.vn/xem-cv/AwYFDgtRAFcAVVVTV1AGB1NTBAYCUQ9TBQIABA2801?fbclid=IwAR0zCWbctYdLAlY6k3JHrMRZhcV6FnqBRCIgEzphu7yZGEjFuynTV2HO3n8"><button class="btn btn-success">Download CV</button></a>
+                <p>Email : sondepdai03@gmail.com</p>
+                <p>Phone: 0988888888</p>
+                <p>Add: Nam Tân, Nam Sách, Hải Dương</p>
+                <a target="_blank"  href="#"><button class="btn btn-secondary m-3">My Infor</button></a>
+                <a target="_blank" href="#"><button class="btn btn-success">Download CV</button></a>
             </div>
         </div>
     </div>
 
 </div>
-    `
+    `;
 };
 export default AboutPage;
